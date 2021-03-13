@@ -1,0 +1,11 @@
+{
+  "name": "kamila_sekenova_itm2005",
+  "version": "1.2.5",
+  "description": "endterm project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sekenova Kamila",
+  "license": "ISC"
+}
